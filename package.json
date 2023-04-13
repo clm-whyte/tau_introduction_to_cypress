@@ -1,0 +1,19 @@
+{
+  "name": "introduction_to_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.31.0",
+    "cypress": "^12.9.0",
+    "npm": "^9.6.3",
+    "typescript": "^5.0.3"
+  },
+  "description": ""
+}
